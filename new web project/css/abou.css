@@ -1,0 +1,43 @@
+body{
+    background-color: #f2f2f2;
+}
+.con{
+    /* display: flex;
+    align-content: stretch; */
+    width: 80%;
+    padding: 8px;
+   
+}
+.info{
+    float: right;
+    width: 60%;
+    margin-top: 30px;
+   
+}
+.image{
+    float: right;
+    width: 30%;
+    margin: 8px;
+}
+h2{
+    color: rgb(255, 15, 15);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+p{
+    color: #0a266c;
+    margin: 8px;
+    font-size: 18px;
+
+}
+.split{
+    height: 80px;
+}
+
+.teach{
+    overflow: hidden;
+    float: left;
+    width: 50%;
+    min-height: 100px;
+}
